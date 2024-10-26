@@ -1,0 +1,4 @@
+Queue is child interface of collection interface.
+
+#In following cases we use Queue:-
+1)When we want to represent group of objects into single entity which are prior to processing(First in First out)

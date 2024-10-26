@@ -1,0 +1,8 @@
+*List is a child interface of collection interface.
+
+*List extends Collection interface.
+
+**We use List interface in following case.
+1)When Insertion order is preserved.(When we insert elements in list the sequence order it should be maintained)
+2)When we want to store Duplicates values.
+3)List will use index concept to store(insert or remove the objects) uniquely.

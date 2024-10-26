@@ -1,0 +1,30 @@
+*Collection is a group of objects/elements.
+*Collection is a single entity which is representing multiple objects/elements.
+*In Primative data types we can store only one elements in each variable. to overcome that we need to use certain 
+ classes and interface which is provided by collection framework.
+ 
+ *Collection framework is a group of classes and interface by which we can represent a group of objects/elements in 
+  into single entity/variable.
+  
+  
+       Array         				 vs    Collection framework
+  
+  1) Fixed size							   1)Growable size
+  2) Hold homogeneous data				   2)Homogeneous and Heterogeneous data can be stored	
+  3) No underlaying Data structure         3)Readymade methods are available.(Sort, Search etc)	
+     Readymade methods are not available.
+     
+     
+  **Collection is a interface is root interface for collection framework.
+  
+  **Collections is a pre-defined class from java.util package. This collections class contains certain methods we can use
+    these methods for collection objects 
+    
+    **Difference between Collection and Collections.
+
+   #Collection is an interface.
+
+   #Collections is a class from java.util package we use certain methods to perform operation on collection object.
+   
+   Collection interface having the child interface such as List, Set, Queue.
+  		

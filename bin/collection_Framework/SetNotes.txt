@@ -1,0 +1,5 @@
+Set interface is a child interface of Collection.
+
+*In following scenario we will use Set interface.
+1)Insertion order is not preserved.
+2)Duplicate not allowed( We can not store duplicate values)
