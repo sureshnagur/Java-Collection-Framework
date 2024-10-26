@@ -1,4 +1,4 @@
-package core;
+package core_concepts;
 
 public class Welcome {
 

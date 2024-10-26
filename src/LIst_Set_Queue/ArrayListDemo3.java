@@ -1,4 +1,4 @@
-package collection_Framework;
+package LIst_Set_Queue;
 
 import java.util.ArrayList;
 import java.util.Arrays;
